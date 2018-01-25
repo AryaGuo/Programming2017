@@ -1,0 +1,53 @@
+cmake_minimum_required(VERSION 3.9)
+project(mac)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(mac
+        Basic/Basic.cpp
+        Basic/evalstate.cpp
+        Basic/evalstate.h
+        Basic/exp.cpp
+        Basic/exp.h
+        Basic/parser.cpp
+        Basic/parser.h
+        Basic/program.cpp
+        Basic/program.h
+        Basic/statement.cpp
+        Basic/statement.h
+        StanfordCPPLib/private/main.h
+        StanfordCPPLib/private/randompatch.h
+        StanfordCPPLib/private/tokenpatch.h
+        StanfordCPPLib/private/tplatform.h
+        StanfordCPPLib/direction.cpp
+        StanfordCPPLib/direction.h
+        StanfordCPPLib/error.cpp
+        StanfordCPPLib/error.h
+        StanfordCPPLib/foreach.h
+        StanfordCPPLib/gmath.cpp
+        StanfordCPPLib/gmath.h
+        StanfordCPPLib/graph.h
+        StanfordCPPLib/grid.h
+        StanfordCPPLib/gtypes.cpp
+        StanfordCPPLib/gtypes.h
+        StanfordCPPLib/hashmap.cpp
+        StanfordCPPLib/hashmap.h
+        StanfordCPPLib/hashset.h
+        StanfordCPPLib/lexicon.cpp
+        StanfordCPPLib/lexicon.h
+        StanfordCPPLib/map.h
+        StanfordCPPLib/point.cpp
+        StanfordCPPLib/point.h
+        StanfordCPPLib/pqueue.h
+        StanfordCPPLib/queue.h
+        StanfordCPPLib/random.cpp
+        StanfordCPPLib/random.h
+        StanfordCPPLib/set.h
+        StanfordCPPLib/simpio.cpp
+        StanfordCPPLib/simpio.h
+        StanfordCPPLib/stack.h
+        StanfordCPPLib/strlib.cpp
+        StanfordCPPLib/strlib.h
+        StanfordCPPLib/tokenscanner.cpp
+        StanfordCPPLib/tokenscanner.h
+        StanfordCPPLib/vector.h)

@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(lab2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Basic.cpp
+  evalstate.cpp
+  exp.cpp
+  parser.cpp
+  program.cpp
+  statement.cpp
+  error.cpp
+  lexicon.cpp
+StanfordCPPLib\lexicon.cpp(312): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  simpio.cpp
+  strlib.cpp
+StanfordCPPLib\strlib.cpp(66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(91): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(107): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(119): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(133): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(153): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(219): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\strlib.cpp(229): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  tokenscanner.cpp
+StanfordCPPLib\tokenscanner.cpp(149): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+StanfordCPPLib\tokenscanner.cpp(180): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 378 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  lab2.vcxproj -> C:\local_test\TA\oop\windows_for_vs\windows_for_vs\x64\Release\Basic.exe

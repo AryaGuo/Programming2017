@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mac"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mac">
+				<Option output="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/mac" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 mac"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mac/fast">
+				<Option output="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/mac" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 mac/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/Basic.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/evalstate.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/evalstate.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/exp.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/exp.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/parser.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/parser.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/program.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/program.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/statement.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/Basic/statement.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/direction.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/direction.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/error.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/error.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/foreach.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/gmath.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/gmath.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/graph.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/grid.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/gtypes.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/gtypes.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/hashmap.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/hashmap.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/hashset.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/lexicon.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/lexicon.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/map.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/point.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/point.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/pqueue.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/private/main.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/private/randompatch.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/private/tokenpatch.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/private/tplatform.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/queue.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/random.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/random.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/set.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/simpio.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/simpio.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/stack.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/strlib.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/strlib.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/tokenscanner.cpp">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/tokenscanner.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/StanfordCPPLib/vector.h">
+			<Option target="mac"/>
+		</Unit>
+		<Unit filename="/Users/guowenxuan/文档/学习资料/程序设计/大作业/Programming2017/OOP2-Basic_interpreter/mac/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
